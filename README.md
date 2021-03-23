@@ -1,2 +1,6 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nirdeo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirdeo&langs_count=5&theme=tokyonight)]()
+<a href="https://github.com/Nirdeo/github-stats">
+
+![](https://raw.githubusercontent.com/Nirdeo/github-stats/master/generated/overview.svg)
+![](https://github.com/Nirdeo/github-stats/blob/master/generated/languages.svg)
+
+</a>
