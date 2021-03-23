@@ -1,6 +1,1 @@
-<a href="https://github.com/Nirdeo/github-stats">
-
-![](https://raw.githubusercontent.com/Nirdeo/github-stats/master/generated/overview.svg)
-![](https://github.com/Nirdeo/github-stats/blob/master/generated/languages.svg)
-
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirdeo)](https://github.com/anuraghazra/github-readme-stats)
