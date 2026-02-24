@@ -38,8 +38,8 @@
   <a href="https://www.self.so/victor-de-domenico-ivvq9w">
     <img src="https://img.shields.io/badge/CV-self.so-1DA1F2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV" />
   </a>
-  <a href="mailto:contact@nirdeo.dev">
-    <img src="https://img.shields.io/badge/Email-contact@nirdeo.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:pro@victordedomenico.dev">
+    <img src="https://img.shields.io/badge/Email-pro@victordedomenico.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
