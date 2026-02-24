@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nirdeo&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20TypeScript%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=victordedomenico&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20TypeScript%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nirdeo&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-  <a href="https://github.com/Nirdeo?tab=followers">
-    <img src="https://img.shields.io/github/followers/Nirdeo?style=for-the-badge&color=7C3AED&label=Followers&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=victordedomenico&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  <a href="https://github.com/victordedomenico?tab=followers">
+    <img src="https://img.shields.io/github/followers/victordedomenico?style=for-the-badge&color=7C3AED&label=Followers&logo=github" alt="followers" />
   </a>
-  <a href="https://github.com/Nirdeo?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Nirdeo?style=for-the-badge&color=7C3AED&label=Total+Stars&logo=github" alt="stars" />
+  <a href="https://github.com/victordedomenico?tab=repositories">
+    <img src="https://img.shields.io/github/stars/victordedomenico?style=for-the-badge&color=7C3AED&label=Total+Stars&logo=github" alt="stars" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nirdeo">
-    <img src="https://img.shields.io/badge/GitHub-Nirdeo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/victordedomenico">
+    <img src="https://img.shields.io/badge/GitHub-victordedomenico-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/victor-de-domenico">
     <img src="https://img.shields.io/badge/LinkedIn-Victor%20De%20Domenico-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
