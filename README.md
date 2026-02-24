@@ -14,8 +14,8 @@
   <a href="https://github.com/Nirdeo?tab=repositories">
     <img src="https://img.shields.io/github/stars/Nirdeo?style=for-the-badge&color=7C3AED&label=Total+Stars&logo=github" alt="stars" />
   </a>
-  <a href="https://wakatime.com/@Nirdeo">
-    <img src="https://wakatime.com/badge/user/Nirdeo.svg?style=for-the-badge" alt="WakaTime" />
+  <a href="https://wakatime.com/@07092ac2-0b56-41eb-8c4a-f9a161f2cfac">
+    <img src="https://wakatime.com/badge/user/07092ac2-0b56-41eb-8c4a-f9a161f2cfac.svg?style=for-the-badge" alt="wakatime" />
   </a>
 </p>
 
