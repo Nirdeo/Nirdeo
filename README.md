@@ -14,9 +14,6 @@
   <a href="https://github.com/Nirdeo?tab=repositories">
     <img src="https://img.shields.io/github/stars/Nirdeo?style=for-the-badge&color=7C3AED&label=Total+Stars&logo=github" alt="stars" />
   </a>
-  <a href="https://wakatime.com/@07092ac2-0b56-41eb-8c4a-f9a161f2cfac">
-    <img src="https://wakatime.com/badge/user/07092ac2-0b56-41eb-8c4a-f9a161f2cfac.svg?style=for-the-badge" alt="wakatime" />
-  </a>
 </p>
 
 ---
@@ -109,18 +106,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⏱️ Coding Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nirdeo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://wakatime.com/@07092ac2-0b56-41eb-8c4a-f9a161f2cfac">
+    <img src="https://wakatime.com/badge/user/07092ac2-0b56-41eb-8c4a-f9a161f2cfac.svg?style=for-the-badge" alt="WakaTime Total" />
+  </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirdeo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 </p>
 
 ---
