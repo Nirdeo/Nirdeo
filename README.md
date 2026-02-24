@@ -51,32 +51,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=Nirdeo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Nirdeo&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nirdeo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nirdeo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">📈 Activity Graph:</h3>
+<h3 align="left">📈 Contribution Graph:</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirdeo&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-<h3 align="left">🐍 Contribution Snake:</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirdeo/Nirdeo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirdeo/Nirdeo/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Nirdeo/Nirdeo/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
